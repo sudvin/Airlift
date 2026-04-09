@@ -1,21 +1,34 @@
 # Airlift Container Lines — Business Context
 
 Last updated: 2026-04-08
-Source: Audio interview with Shreedhar (owner), website
+Source: Audio interview with Shreedhar (owner), website (copy-pasted), founder notes, Industry_Context_CustomsClearance.docx
 
 ---
 
 ## The Business
 
-**Company:** Airlift Container Lines
+**Company:** Airlift Container Lines (ACL)
 **Owner:** Shreedhar (Sai's father-in-law)
-**Based:** India
-**In operation:** 17 years
+**Founded:** 2008 (17 years in operation)
+**Headquarters:** Delhi, India. Office also in Mumbai.
+**Mumbai address:** A-430, 4th Floor, Ghrhitam Building, Vashi, Mumbai - 400703
+**Phone:** +91 981-066-9858
 **Website:** https://www.airliftcontainerlines.com
+**Social:** LinkedIn only
 
-Two services:
-1. **Custom Clearance** — handling all export/import documentation with Indian customs
-2. **Freight Forwarding** — coordinating shipments via air (IATA) or sea (NVOCC)
+**Website tagline:** "Serving Global Demand for a Reliable Logistics"
+
+**Six services listed on website:**
+1. **Freight Forwarding** — seamless movement of goods across domestic and international borders
+2. **Custom Clearance** — navigating customs procedures, compliance with all regulatory requirements
+3. **Logistics Consulting** — supply chain optimization, efficiency insights
+4. **Transportation** — domestic delivery network
+5. **Delivery Duty** — DDP (Delivered Duty Paid) shipments
+6. **Import-Export & Trading** — facilitating international trade
+
+**Why Choose ACL (per website):** Experience (10+ years), Expertise, Reliability, Global Reach (Delhi + Mumbai offices)
+
+**Reality (per founder interview):** Core revenue and expertise is in Custom Clearance and Freight Forwarding. Logistics Consulting, Transportation, and Trading are listed but not the operational focus.
 
 Both go hand in hand. A shipment needs both, and if they're not coordinated, the shipment fails.
 
